@@ -131,16 +131,20 @@
     <Resource Include="Images\ImageForTest\9.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\logo.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Images\button.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\all.jpg" />
+    <Resource Include="Images\logo.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\smile.jpg" />
+    <ProjectReference Include="..\BL\BL.csproj">
+      <Project>{e59418ec-19b5-46d1-be5f-ce98e530212e}</Project>
+      <Name>BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Contract\Contract.csproj">
+      <Project>{36696a3a-351b-4b12-9a72-8bdc7227f501}</Project>
+      <Name>Contract</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

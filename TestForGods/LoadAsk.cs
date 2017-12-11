@@ -13,80 +13,80 @@ namespace TestForGods
         {
             ListOfAsk = new List<TestForGods.Question>()
           {
-              new Question ("Какая страна считается рекордсменом по количеству проживающих в ней кошек?", new List<TestForGods.Option>()
+              new Question ("Какая страна выигрывала Чемпионат Мира наибольшее количество раз?", new List<TestForGods.Option>()
               {
-                new TestForGods.Option("США","США по праву может считаться \"кошачьим Китаем\". Количество мурчащих жителей здесь составляет 76,5 миллионов. В среденем в каждой третьей семье живет по 2 кошки.", true),
-                new Option("Китай", null, false),
-                new Option ("Россия", null, false),
-                new Option ("Греция", null, false),
+                new TestForGods.Option("Бразилия","Бразильская сборная становилась триумфатором аж 5 раз: в 1958, 1962, 1970, 1994 и 2002 годах", true),
+                new Option("Германия", null, false),
+                new Option ("Италия", null, false),
+                new Option ("Испания", null, false),
               },
               "Images/ImageForTest/1.jpg",
               54
               ),
-              new Question ("Почему кошки так любят валерьянку?", new List<TestForGods.Option>()
+              new Question ("Кто является лучшим бомбардиром в истории ЧМ?", new List<TestForGods.Option>()
               {
-                new TestForGods.Option("Это сильный аттрактант","этот хитрый вопрос содержит сразу два правильных ответа!", true),
-                new Option("содержит кошачьи феромоны", null, false),
-                new Option ("нравится запах", null, false),
-                new Option ("повышает аппетит","этот хитрый вопрос содержит сразу два правильных ответа!", true),
+                new TestForGods.Option("Роналдо","null", false),
+                new Option("Герд Мюллер", null, false),
+                new Option ("Пеле", null, false),
+                new Option ("Мирослав Клозе","Ветеран немецкой сборной наколотил 16 мячей", true),
               },   "Images/ImageForTest/2.jpg",55),
-              new Question ("Как вы думаете, в рождении скольких котят поучаствовал Дасти из Техаса, рекордсмен среди кошачьих отцов?", new List<TestForGods.Option>()
+              new Question ("Сборная какой страны трижды выходила в финал ЧМ, но так ни разу и не завладела трофеем?", new List<TestForGods.Option>()
               {
-                new TestForGods.Option("150 котят",null, false),
-                new Option("360 котят", null, false),
-                new Option ("420 котят", "В это сложно поверить, но пушистый Казанова - отец 420 котят!", true),
-                new Option ("500 котят", null, false),
+                new TestForGods.Option("Уругвай",null, false),
+                new Option("Португалия", null, false),
+                new Option ("Нидерланды", "Оранжевые играли в финалах в 1978, 1982 и 2010 годах, но все три попытки оказались неудачными", true),
+                new Option ("Англия", null, false),
               },  "Images/ImageForTest/3.jpg", 54),
-              new Question ("Какая самая дорогая порода собак?", new List<TestForGods.Option>()
+              new Question ("Сборная какой страны победила в первом в истории ЧМ?", new List<TestForGods.Option>()
               {
-                new TestForGods.Option("лион бишон",null, false),
-                new Option("фараонова собака", null, false),
-                new Option ("тибетский мастиф", "Приготовьте 8 тысяч долларов, если хотите похвастаться красавчиком тибетским мастифом, представителем самой дорогой породы собак в мире!", true),
-                new Option ("аффенпинчер", null, false),
+                new TestForGods.Option("Бразилия",null, false),
+                new Option("Германия", null, false),
+                new Option ("Уругвай", "На домашнем ЧМ в финале они одолели Аргентину 4:2 ", true),
+                new Option ("Италия", null, false),
               },   "Images/ImageForTest/4.jpg", 55),
-              new Question ("В какой стране черная кошка, перебежавшая вам дорогу, считается хорошей приметой?", new List<TestForGods.Option>()
+              new Question ("Только одна сборная в истории, будучи хозяйкой Чемпионата, не смогла выйти из группы. Какая?", new List<TestForGods.Option>()
               {
                 new TestForGods.Option("Чили",null, false),
-                new Option("Китай", null, false),
-                new Option ("Великобритания", "В Великобритании черная кошка считается символом удачи. Британцы верят, черный кот дарит богатсво и процветание", true),
+                new Option("Япония", null, false),
+                new Option ("ЮАР", "В 2010 году на домашнем ЧМ они заняли последнюю строчку в группе, проиграв все три матча", true),
                 new Option ("Швеция", null, false),
               },   "Images/ImageForTest/5.jpg",54),
-              new Question ("Как называется станция в Японии, на которой установлен знаменитый памятник самому верному псу Хатико?", new List<TestForGods.Option>()
+              new Question ("Гол, названный впоследствии рукой бога забил...", new List<TestForGods.Option>()
               {
-                new TestForGods.Option("Намбоку",null, false),
-                new Option ("Асакуса", null, false),
-                new Option("Сибуя", "Станция Хатико стоит на станции Сибуя и является местом втречи многих влюбленных.", true),
-                new Option ("Синдзюку", null, false),
+                new TestForGods.Option("Пеле",null, false),
+                new Option ("Ференц Пушкаш", null, false),
+                new Option("Диего Марадона", "Великий и неповторимый:)", true),
+                new Option ("Роналдиньо", null, false),
               },   "Images/ImageForTest/6.jpg", 54),
-              new Question ("Какой фильм про братьев наших меньших пока еще не сняли?", new List<TestForGods.Option>()
+              new Question ("Только один российский футболист становился лучшим бомбардиром ЧМ. Кто?", new List<TestForGods.Option>()
               {
-                new TestForGods.Option("Отель для собак",null, false),
-                new Option ("Хостел для котов", "\"Хостел для котов\" - название известной американской комедии про хвостатых. Но возможно скоро мы увидим вторую часть уже с другими героями...", true),
-                new Option("Кошки против собак", null, false),
-                new Option ("Снежные псы", null, false),
+                new TestForGods.Option("Никита Симонян",null, false),
+                new Option ("Олег Саленко", "В 1994 году он забил 6 мячей, но даже это, увы, не помогло Российской сбоной выйти из группы", true),
+                new Option("Александр Кержаков", null, false),
+                new Option ("Александр Мостовой", null, false),
               },   "Images/ImageForTest/7.jpg", 55),
-              new Question ("Хаски по кличке Барни - настоящий непоседа. Хозяева гуляют с ним по 3-4 часа в день и часто берут с собой в походы. Какой корм оптимально подойдет Барни?", new List<TestForGods.Option>()
+              new Question ("Сборная СССР всего раз в истории добаралась до полуфинала ЧМ-в 1966 году. Кто тогда остановил их чемпионскую поступь?", new List<TestForGods.Option>()
               {
-                new TestForGods.Option("PRO PLAN® ALL SIZES ADULT PERFORMANCE","Идеален для собак с активным образом жизни, часто бывающих на открытом воздухе, - например, в горах или даже просто в парке", true),
-                new Option ("PRO PLAN® ALL SIZES ADULT PERFORMANCE",null, true),
-                new Option("PRO PLAN® ALL SIZES ADULT PERFORMANCE", null, true),
-                new Option ("PRO PLAN® ALL SIZES ADULT PERFORMANCE", null, true),
+                new TestForGods.Option("Англия",null, false),
+                new Option ("Бразилия",null, false),
+                new Option("Аргентина", null, false),
+                new Option ("ФРГ","2:1 закончилась та встреча", true),
               },   "Images/ImageForTest/8.jpg", 42)
               ,
-              new Question ("Персик, крсавец лабрадор, недавно перенес операцию по кастрации. Какой корм рекомендуется добавить в рацион питомцу?", new List<TestForGods.Option>()
+              new Question ("Вратарь сбороной Чехословакии Франтишек Планичка в матче с сборной Бразилии в 1938 году 35 минут играл ?", new List<TestForGods.Option>()
               {
-                new TestForGods.Option("PRO PLAN® ALL SIZES ADULT LIGHT/STERILISED","подходит для стерилизованных собак всех пород", true),
-                new Option ("PRO PLAN® SMALL & MINI PUPPY c комплексом OPTISTART®",null, false),
-                new Option("PRO PLAN® ALL SIZES ADULT PERFORMANCE", null, false),
-                new Option ("PURINA® DOG CHOW", null, false),
+                new TestForGods.Option("с сотрясением мозга",null, false),
+                new Option ("без перчаток",null, false),
+                new Option("со сломанной рукой", "В это сложно поверить, но Планичка действительно доигрывал с сломанной рукой,и при этом не пропустил ни одного мяча", true),
+                new Option ("в нападении", null, false),
               },   "Images/ImageForTest/9.jpg", 46)
               ,
-              new Question ("Мейн-кун Сири покорил своих хозяев добротой и красивой, гладкой, длинной шерсткой. Какой корм поможет хозяевам поддерживать природную красоту и ухоженность их питомца?", new List<TestForGods.Option>()
+              new Question ("Финальный вопрос: лучший бомбардир сборной России по футболу в истории?", new List<TestForGods.Option>()
               {
-                new TestForGods.Option("PRO PLAN® Sterilised",null, false),
-                new Option ("PRO PLAN® Derma Plus","Абсолютно верно! Серия Derma Plus поддерживает здоровье кожи и природную красоту шерсти, а также снижает образование комков шерсти в желудке", true),
-                new Option("PRO PLAN® Delicate", null, false),
-                new Option ("PRO PLAN® Adult", null, false),
+                new TestForGods.Option("Александр Мостовой",null, false),
+                new Option ("Александр Кержаков","Несмотря на все промахи, Александр успел наколотить в составе сборной 30 мячей", true),
+                new Option("Олег Саленко", null, false),
+                new Option ("Александр Кокорин", null, false),
               },   "Images/ImageForTest/10.jpg", 42)
           };
         }
