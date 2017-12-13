@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Contract
 {
-    interface DataProvider
+   public interface DataProvider
     {
-
+        List<Question> GetQuestions();
     }
 }

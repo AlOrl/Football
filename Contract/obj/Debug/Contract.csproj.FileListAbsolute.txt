@@ -1,0 +1,4 @@
+C:\Users\Grisha\Desktop\Курсач\Contract\bin\Debug\Contract.dll
+C:\Users\Grisha\Desktop\Курсач\Contract\bin\Debug\Contract.pdb
+C:\Users\Grisha\Desktop\Курсач\Contract\obj\Debug\Contract.dll
+C:\Users\Grisha\Desktop\Курсач\Contract\obj\Debug\Contract.pdb

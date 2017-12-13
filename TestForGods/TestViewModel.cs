@@ -1,4 +1,6 @@
-﻿using System;
+﻿using BL;
+using Contract;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -11,15 +13,12 @@ namespace TestForGods
     public class TestViewModel : INotifyPropertyChanged
     {
         string lowResult = "Похоже, Вы не очень то интересуетесь футболом. Но ничего, до Чемпионата Мира еще достаточно времени, чтобы наверстать упущенное:)";
-        string lowState = "свещённый";
         string goodResult = "Весьма неплохо! Еще немного, и Вас можно будет считать гуру футбольной истории!";
-        string goodState = "двинутый";
         string excellentResult = "Вы настоящий футбольный эксперт, спортивным журналистом не хотите подработать?";
-        string excellentState = "грессивный";
         private string resultText;
         private string resultMessage;
-        private Question currentquestion;
-        private List<Question> questions;
+        private Contract.Question currentquestion;
+        private List<Contract.Question> questions;
         private int index;
         private int countTrueAnser;
         private bool step = false;
@@ -99,18 +98,17 @@ namespace TestForGods
         {
             newTest();
             ResultMessage = excellentResult;
-            ResultText = excellentState;
+
         }
 
         private void newTest()
         {
             Index = 0;
             countTrueAnser = 0;
-            LoadAsk t = new LoadAsk();
-            questions = t.GetListQuestion();
+            questions =  new DataProcessing().GetQuestions();
             move();
             step = false;
-
+   
         }
 
         public void move()
@@ -127,17 +125,17 @@ namespace TestForGods
                 if(CountTrueAnser < 4)
                 {
                     ResultMessage = lowResult;
-                    ResultText = lowState;
+
                 }
                 if (CountTrueAnser >= 4 && CountTrueAnser < 8)
                 {
                     ResultMessage = goodResult;
-                    ResultText = goodState;
+
                 }
                 if (CountTrueAnser >= 8 )
                 {
                     ResultMessage = excellentResult;
-                    ResultText = excellentState;
+
                 }
                 FinalPageVisibility = "Visible";
                 //открытие результатов 
@@ -157,7 +155,7 @@ namespace TestForGods
                 }
         }
 
-        public Question CurrentQuestion
+        public Contract.Question CurrentQuestion
         {
             get
             {

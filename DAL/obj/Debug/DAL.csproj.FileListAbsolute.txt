@@ -1,0 +1,7 @@
+C:\Users\Grisha\Desktop\Курсач\DAL\bin\Debug\DAL.dll
+C:\Users\Grisha\Desktop\Курсач\DAL\bin\Debug\DAL.pdb
+C:\Users\Grisha\Desktop\Курсач\DAL\bin\Debug\Contract.dll
+C:\Users\Grisha\Desktop\Курсач\DAL\bin\Debug\Contract.pdb
+C:\Users\Grisha\Desktop\Курсач\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Grisha\Desktop\Курсач\DAL\obj\Debug\DAL.dll
+C:\Users\Grisha\Desktop\Курсач\DAL\obj\Debug\DAL.pdb

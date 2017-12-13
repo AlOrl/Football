@@ -1,0 +1,9 @@
+C:\Users\Grisha\Desktop\Курсач\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Grisha\Desktop\Курсач\BL\bin\Debug\BL.dll
+C:\Users\Grisha\Desktop\Курсач\BL\bin\Debug\BL.pdb
+C:\Users\Grisha\Desktop\Курсач\BL\bin\Debug\Contract.dll
+C:\Users\Grisha\Desktop\Курсач\BL\bin\Debug\DAL.dll
+C:\Users\Grisha\Desktop\Курсач\BL\bin\Debug\Contract.pdb
+C:\Users\Grisha\Desktop\Курсач\BL\bin\Debug\DAL.pdb
+C:\Users\Grisha\Desktop\Курсач\BL\obj\Debug\BL.dll
+C:\Users\Grisha\Desktop\Курсач\BL\obj\Debug\BL.pdb

@@ -1,0 +1,52 @@
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\bin\Debug\TestForGods.exe.config
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\bin\Debug\TestForGods.exe
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\bin\Debug\TestForGods.pdb
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\obj\Debug\MainWindow.g.cs
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\obj\Debug\App.g.cs
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\obj\Debug\TestForGods_MarkupCompile.cache
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\obj\Debug\TestForGods_MarkupCompile.lref
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\obj\Debug\MainWindow.baml
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\obj\Debug\TestForGods.g.resources
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\obj\Debug\TestForGods.Properties.Resources.resources
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\obj\Debug\TestForGods.csproj.GenerateResource.Cache
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\obj\Debug\TestForGods.exe
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\obj\Debug\TestForGods.pdb
+C:\Users\HOOLIGAN\Source\Repos\Bogda007\TestForDog\TestForGods\obj\Debug\Resources\MainResources.baml
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\bin\Debug\TestForGods.exe.config
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\bin\Debug\TestForGods.exe
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\bin\Debug\TestForGods.pdb
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\obj\Debug\MainWindow.g.cs
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\obj\Debug\App.g.cs
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\obj\Debug\TestForGods_MarkupCompile.cache
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\obj\Debug\TestForGods_MarkupCompile.lref
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\obj\Debug\MainWindow.baml
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\obj\Debug\Resources\MainResources.baml
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\obj\Debug\TestForGods.g.resources
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\obj\Debug\TestForGods.Properties.Resources.resources
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\obj\Debug\TestForGods.csproj.GenerateResource.Cache
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\obj\Debug\TestForGods.exe
+C:\Users\HOOLIGAN\Documents\BM group\Testappplication\софт\TestForGods\obj\Debug\TestForGods.pdb
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\TestForGods.exe.config
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\TestForGods.exe
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\TestForGods.pdb
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\TestForGods.exe
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\TestForGods.pdb
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\TestForGods.csprojResolveAssemblyReference.cache
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\MainWindow.g.cs
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\App.g.cs
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\TestForGods_MarkupCompile.cache
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\TestForGods_MarkupCompile.lref
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\MainWindow.baml
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\Resources\MainResources.baml
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\TestForGods.g.resources
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\TestForGods.Properties.Resources.resources
+C:\Users\Grisha\Desktop\Курсач\TestForGods\obj\Debug\TestForGods.csproj.GenerateResource.Cache
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\BL.dll
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\Contract.dll
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\BL.pdb
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\Contract.pdb
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\DAL.dll
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\DAL.pdb

@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <ImageSource>Images/ImageForTest/1.jpg</ImageSource>
+    <Size>54</Size>
+    <QuestionText>Какая страна выигрывала Чемпионат Мира наибольшее количество раз?</QuestionText>
+    <options>
+      <Option>
+        <Win>true</Win>
+        <Explanation>Бразильская сборная становилась триумфатором аж 5 раз: в 1958, 1962, 1970, 1994 и 2002 годах</Explanation>
+        <Value>Бразилия</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Германия</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Италия</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Испания</Value>
+      </Option>
+    </options>
+  </Question>
+  <Question>
+    <ImageSource>Images/ImageForTest/2.jpg</ImageSource>
+    <Size>55</Size>
+    <QuestionText>Кто является лучшим бомбардиром в истории ЧМ?</QuestionText>
+    <options>
+      <Option>
+        <Win>false</Win>
+        <Explanation>null</Explanation>
+        <Value>Роналдо</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Герд Мюллер</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Пеле</Value>
+      </Option>
+      <Option>
+        <Win>true</Win>
+        <Explanation>Ветеран немецкой сборной наколотил 16 мячей</Explanation>
+        <Value>Мирослав Клозе</Value>
+      </Option>
+    </options>
+  </Question>
+  <Question>
+    <ImageSource>Images/ImageForTest/3.jpg</ImageSource>
+    <Size>54</Size>
+    <QuestionText>Сборная какой страны трижды выходила в финал ЧМ, но так ни разу и не завладела трофеем?</QuestionText>
+    <options>
+      <Option>
+        <Win>false</Win>
+        <Value>Уругвай</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Португалия</Value>
+      </Option>
+      <Option>
+        <Win>true</Win>
+        <Explanation>Оранжевые играли в финалах в 1978, 1982 и 2010 годах, но все три попытки оказались неудачными</Explanation>
+        <Value>Нидерланды</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Англия</Value>
+      </Option>
+    </options>
+  </Question>
+  <Question>
+    <ImageSource>Images/ImageForTest/4.jpg</ImageSource>
+    <Size>55</Size>
+    <QuestionText>Сборная какой страны победила в первом в истории ЧМ?</QuestionText>
+    <options>
+      <Option>
+        <Win>false</Win>
+        <Value>Бразилия</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Германия</Value>
+      </Option>
+      <Option>
+        <Win>true</Win>
+        <Explanation>На домашнем ЧМ в финале они одолели Аргентину 4:2 </Explanation>
+        <Value>Уругвай</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Италия</Value>
+      </Option>
+    </options>
+  </Question>
+  <Question>
+    <ImageSource>Images/ImageForTest/5.jpg</ImageSource>
+    <Size>54</Size>
+    <QuestionText>Только одна сборная в истории, будучи хозяйкой Чемпионата, не смогла выйти из группы. Какая?</QuestionText>
+    <options>
+      <Option>
+        <Win>false</Win>
+        <Value>Чили</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Япония</Value>
+      </Option>
+      <Option>
+        <Win>true</Win>
+        <Explanation>В 2010 году на домашнем ЧМ они заняли последнюю строчку в группе, проиграв все три матча</Explanation>
+        <Value>ЮАР</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Швеция</Value>
+      </Option>
+    </options>
+  </Question>
+  <Question>
+    <ImageSource>Images/ImageForTest/6.jpg</ImageSource>
+    <Size>54</Size>
+    <QuestionText>Гол, названный впоследствии рукой бога забил...</QuestionText>
+    <options>
+      <Option>
+        <Win>false</Win>
+        <Value>Пеле</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Ференц Пушкаш</Value>
+      </Option>
+      <Option>
+        <Win>true</Win>
+        <Explanation>Великий и неповторимый:)</Explanation>
+        <Value>Диего Марадона</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Роналдиньо</Value>
+      </Option>
+    </options>
+  </Question>
+  <Question>
+    <ImageSource>Images/ImageForTest/7.jpg</ImageSource>
+    <Size>55</Size>
+    <QuestionText>Только один российский футболист становился лучшим бомбардиром ЧМ. Кто?</QuestionText>
+    <options>
+      <Option>
+        <Win>false</Win>
+        <Value>Никита Симонян</Value>
+      </Option>
+      <Option>
+        <Win>true</Win>
+        <Explanation>В 1994 году он забил 6 мячей, но даже это, увы, не помогло Российской сбоной выйти из группы</Explanation>
+        <Value>Олег Саленко</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Александр Кержаков</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Александр Мостовой</Value>
+      </Option>
+    </options>
+  </Question>
+  <Question>
+    <ImageSource>Images/ImageForTest/8.jpg</ImageSource>
+    <Size>42</Size>
+    <QuestionText>Сборная СССР всего раз в истории добаралась до полуфинала ЧМ-в 1966 году. Кто тогда остановил их чемпионскую поступь?</QuestionText>
+    <options>
+      <Option>
+        <Win>false</Win>
+        <Value>Англия</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Бразилия</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Аргентина</Value>
+      </Option>
+      <Option>
+        <Win>true</Win>
+        <Explanation>2:1 закончилась та встреча</Explanation>
+        <Value>ФРГ</Value>
+      </Option>
+    </options>
+  </Question>
+  <Question>
+    <ImageSource>Images/ImageForTest/9.jpg</ImageSource>
+    <Size>46</Size>
+    <QuestionText>Вратарь сбороной Чехословакии Франтишек Планичка в матче с сборной Бразилии в 1938 году 35 минут играл ?</QuestionText>
+    <options>
+      <Option>
+        <Win>false</Win>
+        <Value>с сотрясением мозга</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>без перчаток</Value>
+      </Option>
+      <Option>
+        <Win>true</Win>
+        <Explanation>В это сложно поверить, но Планичка действительно доигрывал с сломанной рукой,и при этом не пропустил ни одного мяча</Explanation>
+        <Value>со сломанной рукой</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>в нападении</Value>
+      </Option>
+    </options>
+  </Question>
+  <Question>
+    <ImageSource>Images/ImageForTest/10.jpg</ImageSource>
+    <Size>42</Size>
+    <QuestionText>Финальный вопрос: лучший бомбардир сборной России по футболу в истории?</QuestionText>
+    <options>
+      <Option>
+        <Win>false</Win>
+        <Value>Александр Мостовой</Value>
+      </Option>
+      <Option>
+        <Win>true</Win>
+        <Explanation>Несмотря на все промахи, Александр успел наколотить в составе сборной 30 мячей</Explanation>
+        <Value>Александр Кержаков</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Олег Саленко</Value>
+      </Option>
+      <Option>
+        <Win>false</Win>
+        <Value>Александр Кокорин</Value>
+      </Option>
+    </options>
+  </Question>
+</ArrayOfQuestion> 
