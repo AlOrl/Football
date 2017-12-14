@@ -93,19 +93,22 @@ namespace TestForGods
             }
         }
 
-
+        //Исправлено 
         public TestViewModel()
         {
+            provider = new DataProcessing();
             newTest();
             ResultMessage = excellentResult;
-
+           
         }
+        private DataProvider provider;
+
 
         private void newTest()
         {
             Index = 0;
             countTrueAnser = 0;
-            questions =  new DataProcessing().GetQuestions();
+            questions =  provider.GetQuestions();
             move();
             step = false;
    

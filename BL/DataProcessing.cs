@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BL
 {
-   public  class DataProcessing
+   public  class DataProcessing:DataProvider
     {
         public DataProvider data;
         public DataProcessing()

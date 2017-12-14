@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TestForGods"
         mc:Ignorable="d"
-        Title="MainWindow" Width="1366" Height="768">
+        Title="MainWindow" Width="1366" Height="760">
     <Window.DataContext>
         <local:TestViewModel></local:TestViewModel>
     </Window.DataContext>
