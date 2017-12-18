@@ -18,7 +18,7 @@ namespace APIWeather
     {
         const string APPID = "8e534cdfe7d49b057a8f7d7b91b4451a";
         const int timeout = 5; //В секундах
-
+          
         public string GetTemperature()
         {
             try
