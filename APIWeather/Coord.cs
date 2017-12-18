@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Contract
+namespace APIWeather
 {
-   public interface DataProvider
+    public class Coord
     {
-        List<Question> GetQuestions();
+        public int lon { get; set; }
+        public int lat { get; set; }
     }
 }

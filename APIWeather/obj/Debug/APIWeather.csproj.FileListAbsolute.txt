@@ -1,0 +1,11 @@
+C:\Users\Grisha\Desktop\Курсач\APIWeather\bin\Debug\APIWeather.dll
+C:\Users\Grisha\Desktop\Курсач\APIWeather\bin\Debug\APIWeather.pdb
+C:\Users\Grisha\Desktop\Курсач\APIWeather\bin\Debug\Contract.dll
+C:\Users\Grisha\Desktop\Курсач\APIWeather\bin\Debug\log4net.dll
+C:\Users\Grisha\Desktop\Курсач\APIWeather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Grisha\Desktop\Курсач\APIWeather\bin\Debug\Contract.pdb
+C:\Users\Grisha\Desktop\Курсач\APIWeather\bin\Debug\log4net.xml
+C:\Users\Grisha\Desktop\Курсач\APIWeather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Grisha\Desktop\Курсач\APIWeather\obj\Debug\APIWeather.csprojResolveAssemblyReference.cache
+C:\Users\Grisha\Desktop\Курсач\APIWeather\obj\Debug\APIWeather.dll
+C:\Users\Grisha\Desktop\Курсач\APIWeather\obj\Debug\APIWeather.pdb

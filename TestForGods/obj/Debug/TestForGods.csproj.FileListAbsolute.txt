@@ -50,3 +50,9 @@ C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\BL.pdb
 C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\Contract.pdb
 C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\DAL.dll
 C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\DAL.pdb
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\log4net.dll
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\log4net.xml
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\APIWeather.dll
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\APIWeather.pdb
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\Newtonsoft.Json.xml

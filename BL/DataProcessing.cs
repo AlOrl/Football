@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace BL
 {
-   public  class DataProcessing:DataProvider
+   public  class DataProcessing:IDataProvider
     {
-        public DataProvider data;
+        public IDataProvider data;
         public DataProcessing()
         {
             data = new Serialize();

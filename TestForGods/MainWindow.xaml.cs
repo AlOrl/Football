@@ -1,4 +1,5 @@
-﻿using System;
+﻿using APIWeather;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,6 +25,8 @@ namespace TestForGods
         public MainWindow()
         {
             InitializeComponent();
+            WorkWithWeather kek = new WorkWithWeather();
+            string keks = kek.GetTemperature();
         }
 
         private void BeginButton_Click(object sender, RoutedEventArgs e)

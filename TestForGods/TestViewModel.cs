@@ -1,4 +1,5 @@
-﻿using BL;
+﻿using APIWeather;
+using BL;
 using Contract;
 using System;
 using System.Collections.Generic;
@@ -25,6 +26,7 @@ namespace TestForGods
         private string finalPageVisibility = "Collapsed";
         private string beginVisibility = "Visible";
         private string thickness = "3";
+        private string viewweather;
         public int Index
         {
             get
@@ -93,15 +95,27 @@ namespace TestForGods
             }
         }
 
+        public string ViewWeather
+        {
+            get { return viewweather; }
+            set
+            {
+                viewweather = value;
+                DoPropertyChanged("ViewWeather");
+            }
+        }
+
         //Исправлено 
         public TestViewModel()
         {
+            WorkWithWeather kek = new WorkWithWeather();
+            viewweather = ("Погода:" + kek.GetTemperature() + "C°");
             provider = new DataProcessing();
             newTest();
             ResultMessage = excellentResult;
            
         }
-        private DataProvider provider;
+        private IDataProvider provider;
 
 
         private void newTest()
