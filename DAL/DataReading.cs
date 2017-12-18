@@ -23,8 +23,10 @@ namespace BL
                 }
                 return list;
             }
-            catch(FileNotFoundException)
+            //REVIEW: А если другое исключение? Например, при десериализации.
+            catch (FileNotFoundException)
             {
+                //REVIEW: В такой обработке нет смысла. Перехватывать и снова его же выкидывать? Если б хоть в лог выкидыватью.
                 throw new FileNotFoundException();
             }
         }
