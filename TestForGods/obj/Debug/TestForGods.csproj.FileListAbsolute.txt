@@ -56,3 +56,5 @@ C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\APIWeather.dll
 C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\APIWeather.pdb
 C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Grisha\Desktop\Курсач\TestForGods\bin\Debug\DocumentFormat.OpenXml.xml

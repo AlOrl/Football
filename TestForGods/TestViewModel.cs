@@ -108,6 +108,7 @@ namespace TestForGods
         //Исправлено 
         public TestViewModel()
         {
+
             WorkWithWeather kek = new WorkWithWeather();
             viewweather = ("Погода:" + kek.GetTemperature() + "C°");
             provider = new DataProcessing();
