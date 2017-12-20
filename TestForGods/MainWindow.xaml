@@ -229,7 +229,7 @@
                     </Grid>
                 </Border>
             </Grid>
-            <Grid x:Name="FirstPage" Visibility="{Binding BeginVisibility}" Margin="1596,32,-1596,-32">
+            <Grid x:Name="FirstPage" Visibility="{Binding BeginVisibility}" Margin="0,0,0,0">
                 <Grid.Background>
                     <ImageBrush ImageSource="Images/first.jpg"></ImageBrush>
                 </Grid.Background>
