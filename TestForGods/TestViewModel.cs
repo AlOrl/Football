@@ -27,6 +27,7 @@ namespace TestForGods
         private string beginVisibility = "Visible";
         private string thickness = "3";
         private string viewweather;
+        
         public int Index
         {
             get
@@ -114,7 +115,8 @@ namespace TestForGods
             provider = new DataProcessing();
             newTest();
             ResultMessage = excellentResult;
-           
+
+
         }
         private IDataProvider provider;
 
@@ -155,6 +157,7 @@ namespace TestForGods
                     ResultMessage = excellentResult;
 
                 }
+                new GeneratedCode.GeneratedClass().CreatePackage(@"C:\Users\Grisha\Desktop\kurs.docx", ResultMessage);
                 FinalPageVisibility = "Visible";
                 //открытие результатов 
             }

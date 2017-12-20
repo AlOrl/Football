@@ -189,8 +189,8 @@
                     </Grid>
                 </Border>
             </Grid>
-            <Grid x:Name="FinalPage" Visibility="{Binding FinalPageVisibility}" Background="#ffffff" Margin="2040,304,-2040,-304">
-                <Border BorderThickness="0,20,0,40" BorderBrush="Red" Margin="1792,144,-1792,-144">
+            <Grid x:Name="FinalPage" Visibility="{Binding FinalPageVisibility}" Background="#ffffff" Margin="0,0,0,0">
+                <Border BorderThickness="0,20,0,40" BorderBrush="Red" Margin="0,0,0,0">
                     <Grid Margin="0,12,0,88" VerticalAlignment="Stretch">
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition/>
@@ -198,7 +198,7 @@
                             <ColumnDefinition/>
                         </Grid.ColumnDefinitions>
                         <Grid Grid.Column="1">
-                            <StackPanel Height="700" Orientation="Vertical" Margin="-22,-2,22,-120">
+                            <StackPanel Height="700" Orientation="Vertical" Margin="0,0,0,0">
                                 <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Horizontal">
                                     <TextBlock FontWeight="Bold" FontFamily="Fonts/Scada/#Scada" Foreground="Black" FontSize="75" Text="Тест "></TextBlock>
 

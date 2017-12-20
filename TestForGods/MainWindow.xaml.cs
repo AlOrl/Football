@@ -27,7 +27,7 @@ namespace TestForGods
             InitializeComponent();
             WorkWithWeather kek = new WorkWithWeather();
             string keks = kek.GetTemperature();
-            new GeneratedCode.GeneratedClass().CreatePackage(@"C:\Users\Grisha\Desktop\Курсач\Kursovik");
+            //new GeneratedCode.GeneratedClass().CreatePackage(@"C:\Users\Grisha\Desktop\kurs.docx");
         }
 
         private void BeginButton_Click(object sender, RoutedEventArgs e)
